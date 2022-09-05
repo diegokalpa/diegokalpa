@@ -12,6 +12,6 @@ Experience as Integration Engineer, Cloud Solution Architect, SRE (Site Reliabil
 
 ### My Projects
 
-- How to install Service Mesh with IStio in k8s Cluster. -> https://github.com/diegokalpa/istio-service-mesh
+- How to install Service Mesh with Istio in k8s Cluster. -> https://github.com/diegokalpa/istio-service-mesh
 - How to install k8s Cluster in GCP (Google Cloud Platform) with Terraform. ->  https://github.com/diegokalpa/website-GCP-TERRA
 - How to deploy a simple app to k8s with Terraform and Github Actions -> https://github.com/diegokalpa/app1_deploy_on_gke
