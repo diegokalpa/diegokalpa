@@ -9,3 +9,9 @@ Experience as Integration Engineer, Cloud Solution Architect, SRE (Site Reliabil
 - AWS, Azure, GCP
 - Kubernetes, Terraform, Docker.
 - CI/CD tools as Jenkins, GitHub Actions
+
+### My Projects
+
+- How to install k8s Cluster in GCP (Google CLoud Platform) with Terraform. ->  https://github.com/diegokalpa/website-GCP-TERRA
+- How to install Service Mesh with IStio in k8s Cluster. -> https://github.com/diegokalpa/istio-service-mesh
+- How to deploy a simple app to k8s with Terraform and Github Actions -> https://github.com/diegokalpa/app1_deploy_on_gke
