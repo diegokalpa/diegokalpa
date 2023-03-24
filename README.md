@@ -26,3 +26,5 @@ If you have any questions or would like to discuss a project, feel free to conta
 - LinkedIn: [https://www.linkedin.com/in/diegocoral](https://www.linkedin.com/in/diegocoral)
 
 Thank you for visiting my profile!
+
+More projects -> [HERE](https://github.com/diegokalpa?tab=repositories)  <-
