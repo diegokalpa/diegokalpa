@@ -1,6 +1,6 @@
 # **Welcome to my GitHub profile!**
 
-My name is Diego Calpa and I am a Site Reliability Engineer (Devops) and Cloud Architect (AWS Architect Cloud Associate Certified )with a passion for building and maintaining highly available, scalable, and secure systems.
+My name is Diego and I am a Site Reliability Engineer (Devops) and Cloud Architect (AWS Architect Cloud Associate Certified )with a passion for building and maintaining highly available, scalable, and secure systems.
 
 ## **Skills and Experience**
 
