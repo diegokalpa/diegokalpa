@@ -19,11 +19,6 @@ My name is Diego Calpa and I am a Site Reliability Engineer (Devops) and Cloud A
 - How to install k8s Cluster in GCP (Google Cloud Platform) with Terraform. ->  https://github.com/diegokalpa/website-GCP-TERRA
 - How to deploy a simple app to k8s with Terraform and Github Actions -> https://github.com/diegokalpa/app1_deploy_on_gke
 
-## **Contact Me**
-
-If you have any questions or would like to discuss a project, feel free to contact me via:
-
-- LinkedIn: [https://www.linkedin.com/in/diegocoral](https://www.linkedin.com/in/diegocoral)
 
 Thank you for visiting my profile!
 
